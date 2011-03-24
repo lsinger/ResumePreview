@@ -1,0 +1,20 @@
+ResumePreview
+===================================
+
+ResumePreview is an AppleScript script that allows you to save the list of documents currently open in Preview on Mac OS X. For simplicity's sake, it saves this list in a hidden text file in your home directory (~/.resumepreview). For added usefulness, the application also allows you to reload that list, opening all those documents in Preview. 
+
+This is awesome for when you need to reboot. SafariRestore (http://sweetpproductions.com/extensions/extensions.htm) solves this for browser tabs, by the way. 
+
+Note: ResumePreview just saves a list of paths to documents, not the documents themselves. 
+
+You can open the script using AppleScript Editor and then, for example, run it or save it as an application that you can put into your Applications folder. I went the extra mile and found a super cute hamster icon (http://www.iconfinder.com/icondetails/15582/128/agt_resume_icon) that I applied to the application; you may of course choose your own. 
+
+(c) Leif Singer, March 24th 2011
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. The name of the author may not be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
